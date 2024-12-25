@@ -108,3 +108,5 @@ The Netflix Analysis Dashboard provides insights into Netflix's catalog, includi
 
 This Netflix Analysis Dashboard provides a comprehensive view of Netflix’s content library. It enables stakeholders to analyze trends and patterns for strategic decision-making. For further customization or additional insights, enhancements can be implemented based on business requirements.
 
+Project link: https://prod-apnortheast-a.online.tableau.com/#/site/vamsikrishnanandigam7-49b54b0081/workbooks/2694014?:origin=card_share_link
+
