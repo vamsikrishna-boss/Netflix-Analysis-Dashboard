@@ -104,6 +104,11 @@ The Netflix Analysis Dashboard provides insights into Netflix's catalog, includi
 2. Add filters for regional preferences or language.
 3. Integrate real-time data from Netflix APIs for up-to-date analysis.
 
+##Report:
+  <p align="center">
+    <img src='https://github.com/vamsikrishna-boss/Netflix-Analysis-Dashboard/blob/main/Netflix%20Analysis.png' height="400">
+</p>
+
 ## Conclusion
 
 This Netflix Analysis Dashboard provides a comprehensive view of Netflix’s content library. It enables stakeholders to analyze trends and patterns for strategic decision-making. For further customization or additional insights, enhancements can be implemented based on business requirements.
